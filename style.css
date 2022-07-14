@@ -5,7 +5,7 @@
 }
 #quadrado1{
     
-    height: 280px;
+    height: 297px;
     width: 27%;
     margin-left: 2%;
     margin-right: 20%;
@@ -63,6 +63,13 @@
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 130px;
+}
+
+#lista1{
+    color: white;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: 10px;
 }
 
 #quadrado2{
