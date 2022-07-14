@@ -12,9 +12,16 @@ header{
     text-decoration: none;
     margin-top: 70px;
     margin-left: 110px;
-    font-family: fantasy;
     color: white;
 }
 button:hover{
-color: firebrick;
+background-color: firebrick;
+font-family: monospace;
+}
+button{
+    font-family: monospace;
+    border: none;
+   font-size: 15px; 
+   background-color: rgb(80, 0, 0);
+   color: white;
 }
