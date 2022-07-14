@@ -46,6 +46,23 @@
 .botao1{
     background-color: white;
     color: black;
+    font-size: 13px;
+    border: none;
+    margin-left: 340px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+#title2{
+    background-color: cornflowerblue;
+    margin-top: 8px;
+}
+
+#titulo2{
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 130px;
 }
 
 #quadrado2{
