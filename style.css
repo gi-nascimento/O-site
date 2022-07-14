@@ -2,6 +2,7 @@ header{
     color: rgb(128, 19, 19);
  
 }
-ul, li{
-    display: inline;
+ li{
+    display: inline-block;
+    text-decoration: none;
 }
