@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(163, 22, 22);
+    background-color: rgb(95, 0, 0);
     border: black;
     height: 100px;
     width: 100%;
@@ -11,5 +11,7 @@ header{
     display: inline-block;
     text-decoration: none;
     margin-top: 70px;
-    margin-left: 105px;
+    margin-left: 110px;
+    font-family: fantasy;
+    color: white;
 }
