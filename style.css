@@ -4,7 +4,7 @@ height: 300px;
 width: 55%;
 margin-left: 5%;
 margin-right: 5%;
-    
+    position: relative;
 }
 #titulo{
     color: white;
@@ -15,4 +15,24 @@ margin-right: 5%;
 }
 #destaques{
     background-color: rgba(204, 0, 204, 0.747);
+}
+#livro{
+    margin-left: 275px;
+    color: white;
+    font-size: 20px;
+}
+#paragrafo1{
+    margin-left: 215px;
+    color: white;
+    margin-right: 10px;
+}
+.botao{
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    border: none;
+    float: right;
+    margin-right: 30px;
+  margin-top: 20px;
 }
