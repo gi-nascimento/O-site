@@ -1,5 +1,6 @@
-header{
+.header{
     color: rgb(128, 19, 19);
+    border: black;
  
 }
  li{
