@@ -5,7 +5,7 @@
 }
 #quadrado1{
     
-    height: 297px;
+    height: 315px;
     width: 27%;
     margin-left: 2%;
     margin-right: 20%;
@@ -81,3 +81,58 @@
     
 }
 
+#titulo3{
+    color: white;
+    margin-left: 10px;
+    margin-top: 15px;
+    padding-top: 9px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#title3{
+    background-color: rgb(63, 107, 47);
+}
+
+#artigo2{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+#texto2{
+    color: white;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.botao2{
+    background-color: white;
+    color: black;
+    font-size: 13px;
+    border: none;
+    margin-left: 340px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+#title4{
+    background-color: rgb(63, 107, 47);
+    margin-top: 8px;
+}
+
+#lista2{
+    color: white;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#titulo4{
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 130px;
+}
