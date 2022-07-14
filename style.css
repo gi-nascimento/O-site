@@ -1,6 +1,8 @@
-.header{
+header{
     background-color: rgb(163, 22, 22);
     border: black;
+    height: 50px;
+    width: 100%;
  
 }
  li{
