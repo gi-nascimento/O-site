@@ -76,9 +76,8 @@
     height: 315px;
     width: 27%;
     margin-left: 2%;
-    margin-right: 20%;
-    background-color: green;
-    
+    margin-right: 100px;
+    background-color: darkgreen;
 }
 
 #titulo3{
@@ -136,3 +135,4 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left: 130px;
 }
+
