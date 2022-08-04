@@ -22,6 +22,7 @@ margin-right: 5%;
     margin-left: 275px;
     color: white;
     font-size: 20px;
+    margin-top: 15px;
 }
 #paragrafo1{
     margin-left: 215px;
@@ -148,7 +149,7 @@ button{
     
     height: 25%;
     width: 30%;
-    margin-left: 2%;
+    margin-left: 5%;
     margin-right: 20%;
     position: relative;
     background-color: rgb(0, 157, 255);
