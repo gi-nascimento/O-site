@@ -11,7 +11,7 @@ margin-right: 5%;
 #titulo{
     color: white;
     margin-left: 21px;
-    margin-top: 90px;
+    margin-top: 70px;
     padding-top: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -76,6 +76,7 @@ width: 55%;
 margin-left: 5%;
 margin-right: 5%;
     position: relative;
+    
 }
 #titulo{
     color: white;
