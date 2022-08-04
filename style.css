@@ -145,8 +145,8 @@ button{
 
 #quadrado1{
     
-    height: 315px;
-    width: 27%;
+    height: 25%;
+    width: 30%;
     margin-left: 2%;
     margin-right: 20%;
     position: relative;
@@ -188,9 +188,12 @@ button{
     color: black;
     font-size: 13px;
     border: none;
-    margin-left: 340px;
-    padding: 3px;
+    margin-left: 255px;
+    padding: 2px;
     border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-top: 8px;
 }
 
 .botao1:hover{
@@ -218,8 +221,9 @@ button{
 }
 
 #quadrado2{
-    height: 315px;
-    width: 27%;
+  
+    height: 25%;
+    width: 30%;
     margin-left: 2%;
     margin-right: 100px;
     background-color: darkgreen;
@@ -257,9 +261,11 @@ button{
     color: black;
     font-size: 13px;
     border: none;
-    margin-left: 340px;
-    padding: 3px;
+    margin-left: 255px;
+    padding: 2px;
     border-radius: 5px;
+    height: 30px;
+    width: 100px;
     
 }
 
