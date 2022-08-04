@@ -216,10 +216,9 @@ button{
 #lista1{
     color: white;
     font-size: 16px;
-    margin-left: 10px;
+    margin-left: 3px;
     margin-top: 10px;
-    padding: 2px;
-    text-decoration: none;
+    padding: 1px;
 }
 
 #quadrado2{
@@ -285,10 +284,10 @@ button{
 #lista2{
     color: white;
     font-size: 16px;
-    margin-left: 15px;
+    margin-left: 10px;
     margin-top: 10px;
     padding: 3px;
-    text-decoration: none;
+
 }
 
 #titulo4{
