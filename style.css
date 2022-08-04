@@ -76,8 +76,9 @@
 #lista1{
     color: white;
     font-size: 16px;
-    margin-left: 25px;
+    margin-left: 10px;
     margin-top: 10px;
+    padding: 2px;
 }
 
 #quadrado2{
@@ -143,8 +144,9 @@
 #lista2{
     color: white;
     font-size: 16px;
-    margin-left: 25px;
+    margin-left: 10px;
     margin-top: 10px;
+    padding: 2px;
 }
 
 #titulo4{
