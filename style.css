@@ -77,3 +77,149 @@ button{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#quadrado1{
+    
+    height: 315px;
+    width: 27%;
+    margin-left: 2%;
+    margin-right: 20%;
+    position: relative;
+    background-color: rgb(0, 157, 255);
+    
+    
+    
+}
+
+#titulo1{
+    color: white;
+    margin-left: 10px;
+    margin-top: 15px;
+    padding-top: 9px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#title1{
+    background-color: cornflowerblue;
+}
+
+#artigo1{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+#texto1{
+    color: white;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.botao1{
+    background-color: white;
+    color: black;
+    font-size: 13px;
+    border: none;
+    margin-left: 340px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.botao1:hover{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title2{
+    background-color: cornflowerblue;
+    margin-top: 8px;
+}
+
+#titulo2{
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 130px;
+}
+
+#lista1{
+    color: white;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#quadrado2{
+    height: 315px;
+    width: 27%;
+    margin-left: 2%;
+    margin-right: 100px;
+    background-color: darkgreen;
+}
+
+#titulo3{
+    color: white;
+    margin-left: 10px;
+    margin-top: 15px;
+    padding-top: 9px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#title3{
+    background-color: rgb(63, 107, 47);
+}
+
+#artigo2{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+#texto2{
+    color: white;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.botao2{
+    background-color: white;
+    color: black;
+    font-size: 13px;
+    border: none;
+    margin-left: 340px;
+    padding: 3px;
+    border-radius: 5px;
+    
+}
+
+.botao2:hover{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#title4{
+    background-color: rgb(63, 107, 47);
+    margin-top: 8px;
+}
+
+#lista2{
+    color: white;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#titulo4{
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 130px;
+}
+
