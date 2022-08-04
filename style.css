@@ -11,7 +11,7 @@ margin-right: 5%;
 #titulo{
     color: white;
     margin-left: 21px;
-    margin-top: 90px;
+    margin-top: 65px;
     padding-top: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -22,6 +22,7 @@ margin-right: 5%;
     margin-left: 275px;
     color: white;
     font-size: 20px;
+    margin-top: 15px;
 }
 #paragrafo1{
     margin-left: 215px;
@@ -75,6 +76,7 @@ width: 55%;
 margin-left: 5%;
 margin-right: 5%;
     position: relative;
+    
 }
 #titulo{
     color: white;
@@ -94,7 +96,7 @@ margin-right: 5%;
 #paragrafo1{
     margin-left: 215px;
     color: white;
-    margin-right: 10px;
+    margin-right: 11px;
     margin-top: 30px;
 }
 .botao{
@@ -131,9 +133,10 @@ font-family: monospace;
 button{
     font-family: monospace;
     border: none;
-   font-size: 15px; 
+   font-size: 14px; 
    background-color: rgb(80, 0, 0);
    color: white;
+   width: 90px;
 }
 
 *{
@@ -147,7 +150,7 @@ button{
     
     height: 25%;
     width: 30%;
-    margin-left: 2%;
+    margin-left: 5%;
     margin-right: 20%;
     position: relative;
     background-color: rgb(0, 157, 255);
@@ -216,10 +219,9 @@ button{
 #lista1{
     color: white;
     font-size: 16px;
-    margin-left: 15px;
+    margin-left: 3px;
     margin-top: 10px;
-    padding: 3px;
-   
+    padding: 1px;
 }
 
 #quadrado2{
@@ -285,10 +287,9 @@ button{
 #lista2{
     color: white;
     font-size: 16px;
-    margin-left: 15px;
+    margin-left: 10px;
     margin-top: 10px;
     padding: 3px;
-    
 }
 
 #titulo4{
@@ -302,7 +303,7 @@ button{
     width: 1480px;
     display: block;
     background-color: burlywood;
-    margin-top: 670px;
+    margin-top: 240px;
     margin-bottom: 20px;
     margin-left: 27px;
 }
