@@ -46,14 +46,14 @@
 .botao1{
     background-color: white;
     color: black;
-    font-size: 12px;
+    font-size: 13px;
     border: none;
     margin-left: 255px;
     padding: 2px;
     border-radius: 5px;
     height: 30px;
     width: 100px;
-    margin-top: 5px;
+    margin-top: 8px;
 }
 
 .botao1:hover{
