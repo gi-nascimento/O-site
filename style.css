@@ -78,8 +78,9 @@
 }
 
 #quadrado2{
-    height: 315px;
-    width: 27%;
+  
+    height: 20%;
+    width: 30%;
     margin-left: 2%;
     margin-right: 100px;
     background-color: darkgreen;
