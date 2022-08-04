@@ -131,9 +131,10 @@ font-family: monospace;
 button{
     font-family: monospace;
     border: none;
-   font-size: 15px; 
+   font-size: 14px; 
    background-color: rgb(80, 0, 0);
    color: white;
+   width: 50px;
 }
 
 *{
@@ -301,7 +302,7 @@ button{
     width: 1480px;
     display: block;
     background-color: burlywood;
-    margin-top: 670px;
+    margin-top: 240px;
     margin-bottom: 20px;
     margin-left: 27px;
 }
