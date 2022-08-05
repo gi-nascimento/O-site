@@ -21,12 +21,19 @@ margin-right: 5%;
     margin-left: 225px;
     color: white;
     font-size: 20px;
-    padding-top: 25px;
+   
 }
+
 #img{
-    height: 170px;
-    width: 220px;
-    margin-top: 30px;
+   width: 30%;
+   margin-top: 30px;
+   margin-left: 13px;
+   float: left;
+}
+.gigi{
+    float: right;
+    width: 70%;
+    
 }
 
 #paragrafo1{
