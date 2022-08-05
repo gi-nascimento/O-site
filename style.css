@@ -50,7 +50,7 @@ header{
  
  
 }
- li{
+ #li1{
     display: inline-block;
     text-decoration: none;
     margin-top: 70px;
@@ -216,13 +216,7 @@ button{
     margin-left: 130px;
 }
 
-#lista1{
-    color: white;
-    font-size: 16px;
-    margin-left: 1px;
-    margin-top: 10px;
-    padding: 1px;
-}
+
 
 #quadrado2{
   
@@ -288,9 +282,10 @@ button{
 #lista2{
     color: white;
     font-size: 16px;
-    margin-left: 10px;
+    margin-left: 1px;
     margin-top: 10px;
-    padding: 3px;
+    padding: 1px;
+    
 }
 
 #titulo4{
@@ -299,14 +294,15 @@ button{
     font-family: 'Times New Roman', Times, serif;
     margin-left: 130px;
 }
+
 #final{
-    height: 40px;
-    width: 1480px;
+    height: 50px;
+    width: 100%;
     display: block;
     background-color: burlywood;
-    margin-top: 240px;
+    margin-top: 30px;
     margin-bottom: 20px;
-    margin-left: 27px;
+    padding: 2px;
 }
 
 #titulofinal{
