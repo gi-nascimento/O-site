@@ -106,12 +106,12 @@ margin-right: 5%;
     background-color: rgba(204, 0, 204, 0.747);
 }
 #livro{
-    margin-left: 275px;
+    margin-left: 0px;
     color: white;
     font-size: 20px;
 }
 #paragrafo1{
-    margin-left: 215px;
+    margin-left: 0px;
     color: white;
     margin-right: 11px;
     margin-top: 30px;
