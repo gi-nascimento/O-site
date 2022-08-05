@@ -25,8 +25,7 @@ margin-right: 5%;
     font-size: 20px;
     margin-top: 15px;
 }
-
-section img{
+#imagemp, img{
    width: 30%;
    float: left;
    margin-left: 20px;
@@ -137,7 +136,8 @@ header{
  
  
 }
- #li1{
+
+ #nath{
     display: inline-block;
     text-decoration: none;
     margin-top: 70px;
