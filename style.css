@@ -1,0 +1,12 @@
+.uau{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(162, 252, 255);
+}
+input{
+    width: 260px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
