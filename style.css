@@ -2,6 +2,7 @@
     height: 500px;
     width: 300px;
     background-color: rgb(162, 252, 255);
+    float: right;
 }
 input{
     width: 260px;
@@ -25,5 +26,12 @@ input{
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 0px;
-    
+}
+.img img{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
