@@ -2,8 +2,8 @@
 
 #destaques1{
     background-color: rgb(126, 23, 126);
-height: 300px;
-width: 55%;
+height: 350px;
+width: 70%;
 margin-left: 5%;
 margin-right: 5%;
     position: relative;
@@ -19,11 +19,27 @@ margin-right: 5%;
     background-color: rgba(204, 0, 204, 0.747);
 }
 #livro{
-    margin-left: 275px;
+    margin-left: 225px;
     color: white;
     font-size: 20px;
     margin-top: 15px;
 }
+
+section img{
+   width: 30%;
+   float: left;
+   margin-left: 20px;
+   margin-top: 30px;
+}
+#gigi{
+    float: right;
+    width: 60%;
+    margin-top: 30px;
+    margin-right: 48px;
+   
+    
+}
+
 #paragrafo1{
     margin-left: 215px;
     color: white;
@@ -31,7 +47,7 @@ margin-right: 5%;
     margin-top: 30px;
 }
 .botao{
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: white;
     color: black;
     font-size: 15px;
@@ -39,6 +55,7 @@ margin-right: 5%;
     float: right;
     margin-right: 30px;
   margin-top: 20px;
+  width: 80px;
 }
 
 header{
