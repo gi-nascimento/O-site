@@ -66,7 +66,7 @@ header{
  
  
 }
- li{
+ #li1{
     display: inline-block;
     text-decoration: none;
     margin-top: 70px;
@@ -135,6 +135,7 @@ header{
  
  
 }
+
  #nath{
     display: inline-block;
     text-decoration: none;
@@ -166,8 +167,8 @@ button{
     
     height: 25%;
     width: 30%;
-    margin-left: 5%;
-    margin-right: 20%;
+    margin-left: 50px;
+    margin-right: 40px;
     position: relative;
     background-color: rgb(0, 157, 255);
     
@@ -214,7 +215,10 @@ button{
     width: 100px;
     margin-top: 8px;
 }
-
+#lista1{
+    color: white;
+    margin-left: 25px;
+}
 .botao1:hover{
     background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
@@ -232,22 +236,16 @@ button{
     margin-left: 130px;
 }
 
-#lista1{
-    color: white;
-    font-size: 16px;
-    margin-left: 1px;
-    margin-top: 10px;
-    padding: 1px;
-}
+
 
 #quadrado2{
   
     height: 25%;
     width: 30%;
-    margin-left: 5%;
-    margin-right: 20%;
     position: relative;
     background-color: darkgreen;
+  margin-right: 40px;
+  margin-left: 50px;
 }
 
 #titulo3{
@@ -304,10 +302,12 @@ button{
 #lista2{
     color: white;
     font-size: 16px;
-    margin-left: 10px;
+    margin-left: 25px;
     margin-top: 10px;
-    padding: 3px;
+    
 }
+
+
 
 #titulo4{
     color: white;
@@ -315,14 +315,16 @@ button{
     font-family: 'Times New Roman', Times, serif;
     margin-left: 130px;
 }
+
 #final{
-    height: 40px;
-    width: 1480px;
+    height: 50px;
+    width: 100%;
     display: block;
     background-color: burlywood;
     margin-top: 200px;
+    margin-top: 30px;
     margin-bottom: 20px;
-    margin-left: 27px;
+    padding: 2px;
 }
 
 #titulofinal{
