@@ -345,7 +345,7 @@ button{
     height: 500px;
     width: 300px;
     background-color: rgb(162, 252, 255);
-    
+    float: right;
     margin-top: 30px;
 }
 input{
