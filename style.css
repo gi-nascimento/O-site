@@ -167,9 +167,11 @@ button{
 
 #quadrado1{
     
+    margin-top: 20px;
     height: 25%;
     width: 30%;
     margin-left: 50px;
+    display: inline-block;
     margin-right: 40px;
     position: relative;
     background-color: rgb(0, 157, 255);
@@ -241,12 +243,15 @@ button{
 
 #quadrado2{
   
-    height: 25%;
-    width: 30%;
+   
     position: relative;
     background-color: darkgreen;
   margin-right: 40px;
   margin-left: 50px;
+  display: inline-block;
+  margin-top: 20px;
+  height: 25%;
+  width: 30%;
 }
 
 #titulo3{
