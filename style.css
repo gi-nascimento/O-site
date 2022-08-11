@@ -1,13 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-
+main{
+    width: 75%;
+    display: block;
+    float: left;
+   
+    height: auto;
+}
+aside{
+    width: 25%;
+    display: block;
+    float: left;
+  
+    height: 700px;
+}
 
 #destaques1{
     background-color: rgb(126, 23, 126);
 height: 350px;
-width: 55%;
+width: 88%;
 margin-left: 5%;
 margin-right: 5%;
-    position: relative;
+    
 }
 #titulo{
     color: white;
@@ -35,7 +53,7 @@ margin-right: 5%;
     float: right;
     width: 60%;
     margin-top: 3px;
-    margin-right: 48px;
+    margin-right: 20px;
     height: 100px;
    
     
@@ -125,7 +143,7 @@ margin-right: 5%;
     border: none;
     float: right;
     margin-right: 30px;
-  margin-top: 20px;
+  margin-top: 125px;
 }
 
 header{
@@ -138,7 +156,7 @@ header{
  
 }
 
- #nath{
+ .nath{
     display: inline-block;
     text-decoration: none;
     margin-top: 70px;
@@ -158,18 +176,13 @@ button{
    width: 90px;
 }
 
-*{
-    padding: 0;
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 
 #quadrado1{
     
     margin-top: 20px;
     height: 25%;
-    width: 30%;
+    width: 40%;
     margin-left: 50px;
     display: inline-block;
     margin-right: 40px;
@@ -252,7 +265,7 @@ button{
   display: inline-block;
   margin-top: 20px;
   height: 25%;
-  width: 30%;
+  width: 40%;
 }
 
 #titulo3{
@@ -325,13 +338,14 @@ button{
 
 #final{
     height: 50px;
-    width: 100%;
+    width: 98%;
+    float: left;
     display: block;
     background-color: burlywood;
     margin-top: 200px;
     margin-top: 30px;
     margin-bottom: 20px;
-    padding: 2px;
+    padding: 1%;
 }
 
 #titulofinal{
@@ -346,15 +360,13 @@ button{
 
     
     background-color: rgb(162, 252, 255);
-    position: relative;
     width: 190px;
     height: 250px;
     margin-top: 40px;
-    margin-left: 150px;
     height: 400px;
     width: 230px;
     background-color: rgb(162, 252, 255);
-    display: inline-block;
+   margin-left: 50px;
    
 }
 input{
