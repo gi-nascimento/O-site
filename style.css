@@ -8,14 +8,14 @@ main{
     width: 75%;
     display: block;
     float: left;
-    background-color: blue;
+   
     height: auto;
 }
 aside{
     width: 25%;
     display: block;
     float: left;
-  background-color: greenyellow;
+  
     height:500px;
 }
 
@@ -256,13 +256,12 @@ button{
 #quadrado2{
   
    
-    position: relative;
+  
     background-color: darkgreen;
   margin-right: 40px;
   margin-left: 50px;
   display: inline-block;
-  
-  margin-top: 20px;
+  margin-top: 15px;
   height: 25%;
   width: 40%;
 }
@@ -360,11 +359,14 @@ button{
     margin-left: 30px;
     background-color: rgb(162, 252, 255);
         margin-top: 40px;
-    height: 350px;
+    height: 300px;
     width: 230px;
     background-color: rgb(162, 252, 255);
 
    
+}
+#maislidos{
+    margin-left: 30px;
 }
 input{
     width: 210px;
