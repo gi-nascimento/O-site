@@ -272,7 +272,7 @@ button{
 #quadrado2{
   
    
-  
+  float: left;
     background-color: rgb(224, 53, 127);
   margin-right: 5%;
   margin-left: 5%;
