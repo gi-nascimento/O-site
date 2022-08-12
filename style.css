@@ -133,6 +133,20 @@ margin-right: 5%;
     margin-right: 11px;
     margin-top: 30px;
 }
+.livros{
+    width: 200px;
+    height: 300px;
+
+}
+.uva{
+    margin-top: 10px;
+}
+.nana{
+    color: white;
+    background-color: rgb(120, 122, 124);
+    margin-right: 20px;
+    padding-left: 63px;
+}
 .botao{
     border-radius: 20px;
     background-color: white;
@@ -359,8 +373,8 @@ button{
     margin-left: 30px;
     background-color: rgb(162, 252, 255);
         margin-top: 40px;
-    height: 300px;
-    width: 230px;
+    height: 620px;
+    width: 320px;
     background-color: rgb(162, 252, 255);
 
    
