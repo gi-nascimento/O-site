@@ -146,7 +146,7 @@ margin-right: 5%;
 .nana{
     color: white;
     background-color: rgb(120, 122, 124);
-    margin-right: 20px;
+    
     padding-left: 75px;
 }
 .botao{
@@ -321,7 +321,11 @@ button{
     width: 100px;
     
 }
-
+#maislidos{
+    border-style: solid;
+   width: 250px;
+    color: white;
+}
 .botao2:hover{
     background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
