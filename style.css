@@ -259,7 +259,10 @@ button{
     background-color: rgb(25, 161, 106);
     margin-top: 8px;
 }
-
+ i{
+    color: white;
+    margin-left: 200px;
+}
 #titulo2{
     color: white;
     font-size: 16px;
